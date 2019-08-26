@@ -1,0 +1,21 @@
+@model TinTucCTSV.Models.Regency.RegencyNewModel
+@{
+    ViewData["Title"] = "Tạo chức vụ";
+}
+    <form asp-controller="Regency" asp-action="CreateRegency">
+        <h1>Tạo chức vụ mới</h1>
+        <br/>
+        <div asp-validation-summary="ModelOnly"></div>
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" ></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Description"></label>
+            <input asp-for="Description" class="form-control" />
+            <span asp-validation-for="Description" ></span>
+        </div>
+        <input type="submit" value="Create" class="btn btn-success"/>
+    </form>
+

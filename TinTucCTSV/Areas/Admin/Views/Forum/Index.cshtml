@@ -1,0 +1,38 @@
+﻿@model TinTucCTSV.Models.Forum.ForumIndexModel
+
+<partial name="_TaskbarPartial"/>
+<table class="table table-bordered table-responsive">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(forum =>forum.ForumList.FirstOrDefault().Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(forum =>forum.ForumList.FirstOrDefault().Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(forum =>forum.ForumList.FirstOrDefault().Description)
+            </th>
+            <td>Chức năng</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var forum in Model.ForumList)
+        {
+            <tr>
+                <td>
+                    @forum.Id
+                </td>
+                <td>
+                    @forum.Title
+                </td>
+                <td>
+                    @forum.Description
+                </td>
+                <td>
+                    <partial name="_ButtonPartial" model="@forum.Id" />
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

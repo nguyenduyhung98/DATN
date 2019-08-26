@@ -1,0 +1,30 @@
+@model TinTucCTSV.Models.Post.UpdatePostModel
+@{
+    ViewData["Title"] = @Model.Title;
+}
+<div>
+    <div>
+        <form asp-action="UpdatePost">
+            <h1>Chỉnh sửa bài viết</h1>
+        <br/>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="Id" type="hidden"/>
+            <div class="form-group">
+                <label asp-for="Title"></label>
+                <input asp-for="Title" value="@Model.Title" class="form-control"/>
+                <span asp-validation-for="Title"></span>
+            </div>
+            <div class="form-group">
+            <label asp-for="Content"></label>
+            <textarea asp-for="Content" name="content" id="ckfinder" value="@Model.Content" class="form-control"></textarea>
+             <script>
+                var editor = CKEDITOR.replace( '#ckfinder' );
+                CKFinder.setupCKEditor( editor );
+            </script>
+        </div>
+            <div class="from-group">
+                <input type="submit" value="Save" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,76 @@
+﻿@model TinTucCTSV.Models.Post.PostViewModel
+@{
+    ViewData["Title"] = @Model.Title;
+}
+
+<div class="p-5">
+    <h1 class="text-center">@Model.Title</h1>
+    <p class="lead text-center">
+        <i class="far fa-user"></i> @Model.AuthorName (@Model.AuthorRating) -
+        <i class="far fa-eye"></i> @Model.NumberRead -
+        <i class="far fa-clock"></i> @Model.Created -
+        <i class="far fa-comments"></i> @Model.RepliesCount
+    </p>
+    <hr class="my-2">
+    <p>
+        @Html.Raw(Model.Content)
+    </p>
+    <hr class="my-2">
+    <div>
+        @if (Model.FileUrl != "" && Model.FileUrl != null)
+        {
+            <p>Tệp đính kèm: <a href="\updated/files/@Model.FileUrl">@Model.FileUrl</a></p>
+        }
+    </div>
+    <div class="float-right">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=@Model.UrlHttp"
+           onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
+           target="_blank" title="Share on Facebook">
+            <i class="fab fa-facebook-f"></i>
+        </a>
+        <a href="https://twitter.com/share?url=@Model.UrlHttp"
+           onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
+           target="_blank" title="Share on Twitter">
+            <i class="fab fa-twitter"></i>
+        </a>
+        <a href="https://plus.google.com/share?url=@Model.UrlHttp"
+           onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=350,width=480');return false;"
+           target="_blank" title="Share on Google+">
+            <i class="fab fa-google-plus-g"></i>
+        </a>
+    </div>
+</div>
+<div class="container-fluid">
+
+    @foreach (var reply in Model.Replies)
+    {
+        <div class="card">
+            <div class="card-header" id="headingOne">
+                <h5 class="mb-0">
+                    <img src="\updated\images\profile\@reply.AuthorImageUrl" alt="" height="42" width="42" /> |<span>@reply.AuthorName | @reply.Created</span>
+                </h5>
+            </div>
+
+            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                <div class="card-body">
+                    @reply.ReplyContent
+                </div>
+            </div>
+        </div>
+    }
+
+</div>
+<div class="container-fluid">
+    <div class="tab-content" id="tab-Reply">
+        <div class="noPost">
+            <form asp-controller="Post" asp-action="ReplyPost" asp-route-id="@Model.Id" onsubmit="return validateForm()">
+                <label asp-for="@Model.NewReply.Content"></label>
+                <textarea asp-for="@Model.NewReply.Content" placeholder="Nhập nội dung bình luận..." class="form-control" id="contentVali"></textarea>
+                <br />
+                <button type="submit" class="btn btn-success">Bình luận</button>
+
+                <input asp-for="@Model.Id" type="hidden" />
+            </form>
+        </div>
+    </div>
+</div>

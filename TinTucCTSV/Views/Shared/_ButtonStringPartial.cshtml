@@ -1,0 +1,5 @@
+﻿@model string
+<div class="btn-group" role="group">
+    <a type="button" class="btn btn-primary" href="@Url.Action("Update", new { Id = Model})"><i class="fas fa-marker"></i></a>
+    <a type="button" class="btn btn-primary" href="@Url.Action("Delete", new { Id = Model })"><i class="far fa-trash-alt"></i></a>
+</div>

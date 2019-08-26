@@ -1,0 +1,35 @@
+﻿@model TinTucCTSV.Models.Role.RoleIndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+    <partial name="_TaskbarPartial" />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(role => role.RolesList.FirstOrDefault().Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(role => role.RolesList.FirstOrDefault().Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var role in Model.RolesList)
+        {
+        <tr>
+            <td>
+                @role.Name
+            </td>
+            <td>
+                @role.Description
+            </td>
+            <td>
+                <partial name="_ButtonStringPartial" model="@role.Id" />
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+

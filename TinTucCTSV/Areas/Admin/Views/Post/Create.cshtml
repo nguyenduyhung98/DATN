@@ -1,0 +1,40 @@
+﻿@model TinTucCTSV.Models.Post.NewPostModel
+@{
+    ViewData["Title"] = "Tạo bài viết mới";
+}
+<h1>Tạo bài viết mới</h1>
+        <br/>
+    <form asp-controller="Post" asp-action="AddPost" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="Title"></label>
+            <input asp-for="Title" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Content"></label>
+            <textarea asp-for="Content" name="content" id="ckfinder" class="form-control"></textarea>
+             <script>
+                var editor = CKEDITOR.replace( '#ckfinder' );
+                CKFinder.setupCKEditor( editor );
+            </script>
+        </div>
+        <div class="form-group">
+            <label asp-for="FileUrl" class="control-label"></label>
+            <div class="custom-file">
+                <input asp-for="FileUrl" type="file" name="files" class="custom-file-input" id="inputGroupFile01">
+                <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+            </div>
+            <span asp-validation-for="FileUrl" class="text-danger"></span>
+            <h1 class="text-danger">@TempData["Message"]</h1>
+        </div>
+        <div class="form-group">
+            <label asp-for="ForumId"></label>
+            <select class="form-control" asp-for="ForumId" asp-items="@(new SelectList(ViewBag.dropListForums,"Id","Title"))">
+                <option Value="">--Not selected--</option>
+            </select>
+        </div>
+        <button type="submit" id="submitPost" class="btn btn-success btn-submitPost">
+            Tạo bài viết
+        </button>
+        <input asp-for="ForumId" type="hidden" />
+    </form>
+

@@ -1,0 +1,27 @@
+@model TinTucCTSV.Models.Form.FormIndexModel
+@{
+    ViewData["Title"] = "Biểu mẫu";
+}
+    <partial name="_TaskbarPartial" />
+<hr/>
+<table class="table table-border table-responsive">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên biểu mẫu</th>
+            <th>Link</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <body>
+        @foreach (var form in Model.listForms)
+        {
+            <tr>
+                <td>@form.Id</td>
+                <td>@form.Title</td>
+                <!-- <td>@form.LinkUrl</td> -->
+                <td><partial name="_ButtonPartial" model="@form.Id" /></td>
+            </tr>
+        }
+    </body>
+</table>

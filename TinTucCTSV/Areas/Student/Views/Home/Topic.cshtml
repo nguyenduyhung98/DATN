@@ -1,0 +1,28 @@
+﻿@model TinTucCTSV.Models.Forum.ForumIndexTopicModel
+@{ 
+    ViewData["Title"] = @Model.Forum.Title;
+}
+
+<img src="~/updated/images/new.png" class="container" />
+<h1 class="text-center">@Model.Forum.Title</h1>
+@if (User.IsInRole("Manager") || User.IsInRole("Student"))
+{
+    <a asp-controller="Post" asp-action="Create" asp-route-id="@Model.Forum.Id" class="btn btn-success">Tạo bài viết</a>
+}
+@if (Model.Posts.Any()){
+
+            @foreach (var post in Model.Posts)
+            {
+                <ul>
+                    <li><a asp-controller="Post" asp-action="Index" asp-route-id="@post.Id">@post.Title</a>
+                        <time>@post.Created</time>
+                    </li>
+                </ul>        
+            }
+
+}
+else{
+    <div class="noPost">
+        No Post @Model.Forum.Title
+    </div>
+}

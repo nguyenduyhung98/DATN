@@ -1,0 +1,41 @@
+@model TinTucCTSV.Models.Regency.RegencyIndexModel
+@{
+    ViewData["Title"] = "Chức vụ";
+}
+<partial name="_TaskbarPartial"/>
+<div class="container">
+    <table class="table .table-bordered table-responsive">
+        <thead>
+            <tr>
+                <!-- <th>
+                    @Html.DisplayNameFor(department =>department.ListRegencies.FirstOrDefault().Id)
+                </th> -->
+                <th>
+                    @Html.DisplayNameFor(department =>department.ListRegencies.FirstOrDefault().Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(department =>department.ListRegencies.FirstOrDefault().Description)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var regency in @Model.ListRegencies)
+            {
+                <tr>
+                    <!-- <td>
+                        @regency.Id
+                    </td> -->
+                    <td>
+                        @regency.Name
+                    </td>
+                    <td>
+                        @regency.Description
+                    </td>
+                    <td>
+                        <partial name="_ButtonStringPartial" model="@regency.Id" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

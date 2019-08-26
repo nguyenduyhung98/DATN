@@ -1,0 +1,332 @@
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.dll
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Views.dll
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.dll
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Service.dll
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Service.pdb
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.pdb
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.csprojAssemblyReference.cache
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.csproj.CoreCompileInputs.cache
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorAssemblyInfo.cache
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorAssemblyInfo.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.AssemblyInfoInputs.cache
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.AssemblyInfo.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.TagHelpers.input.cache
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.TagHelpers.output.cache
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorCoreGenerate.cache
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorTargetAssemblyInfo.cache
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorTargetAssemblyInfo.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.Views.pdb
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.dll
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.pdb
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.deps.json
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.runtimeconfig.json
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.runtimeconfig.dev.json
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.pdb
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Views.pdb
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.csproj.CopyComplete
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\ChangePassword.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\Create.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\Index.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\Update.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Forum\Create.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Forum\Index.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Forum\Update.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Create.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Detail.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Index.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\ReviewPostStatus.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Update.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Home\Index.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Home\Topic.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Lastest\Index.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Create.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\CreateReply.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Delete.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Index.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\PostUpdate.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\_ViewImports.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\_ViewStart.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.deps.json
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.runtimeconfig.json
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.runtimeconfig.dev.json
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.dll
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.pdb
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Views.dll
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Views.pdb
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.dll
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Service.dll
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.pdb
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Service.pdb
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.csprojAssemblyReference.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.csproj.CoreCompileInputs.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorAssemblyInfo.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorAssemblyInfo.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.AssemblyInfoInputs.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.AssemblyInfo.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.TagHelpers.input.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.TagHelpers.output.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorCoreGenerate.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\ChangePassword.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\Create.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\Update.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Forum\Create.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Forum\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Forum\Update.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Create.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Detail.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\ReviewPostStatus.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Update.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Home\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Home\Topic.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Create.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\CreateReply.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Delete.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\PostUpdate.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\_ViewImports.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\_ViewStart.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorTargetAssemblyInfo.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorTargetAssemblyInfo.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.Views.pdb
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.csproj.CopyComplete
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.dll
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.pdb
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ProfilePartial.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Profile\Default.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Home\Personnel.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Account\ChangeInformation.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Account\Update.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Account\ChangePassword.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Account\ListAccount.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Forum.g.cshtml.cs
+d:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Comment\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTUcCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Form\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTUcCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Form\Create.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Form\Update.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Home\FormHome.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_TaskbarPartial.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Regency\Create.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Regency\Index.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Regency\Update.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonStringPartial.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Update.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.deps.json
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.runtimeconfig.json
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.runtimeconfig.dev.json
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.dll
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.pdb
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Views.dll
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Views.pdb
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.dll
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Service.dll
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.pdb
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\bin\Debug\netcoreapp2.2\TinTucCTSV.Service.pdb
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.csprojAssemblyReference.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorAssemblyInfo.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorAssemblyInfo.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.AssemblyInfoInputs.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.AssemblyInfo.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.TagHelpers.input.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.TagHelpers.output.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorCoreGenerate.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\ChangePassword.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\Create.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Account\Update.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Comment\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Form\Create.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Form\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Form\Update.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Forum\Create.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Forum\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Forum\Update.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Create.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Detail.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\ReviewPostStatus.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Post\Update.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Regency\Create.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Regency\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Regency\Update.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Update.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Account\ChangeInformation.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Account\ChangePassword.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Account\ListAccount.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Account\Update.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Home\FormHome.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Home\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Home\Personnel.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Home\Topic.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Create.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\CreateReply.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Delete.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Forum.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\PostUpdate.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\_ViewImports.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\_ViewStart.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Profile\Default.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonStringPartial.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ProfilePartial.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_TaskbarPartial.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorTargetAssemblyInfo.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.RazorTargetAssemblyInfo.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.Views.pdb
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.csproj.CopyComplete
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.dll
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\TinTucCTSV.pdb
+D:\Developer\Projects\ForumTinTuc\TinTucctsv\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Post\Searching.g.cshtml.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV\obj\Debug\netcoreapp2.2\Razor\Areas\Student\Views\Search\Results.g.cshtml.cs

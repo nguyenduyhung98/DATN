@@ -1,0 +1,51 @@
+﻿@model TinTucCTSV.Models.Post.PostIndexModel
+@{
+    ViewData["Title"] = "Quản Lý bài Post";
+}
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(post => post.ListPosts.FirstOrDefault().Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(post => post.ListPosts.FirstOrDefault().Created)
+            </th>
+            <th>
+                @Html.DisplayNameFor(post => post.ListPosts.FirstOrDefault().AuthorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(post => post.ListPosts.FirstOrDefault().Status)
+            </th>
+            <td>
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.ListPosts.Count() > 0)
+        {
+        foreach (var post in Model.ListPosts)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Update" asp-route-id="@post.Id">@post.Title</a>
+                </td>
+                <td>
+                    @post.Created
+                </td>
+                <td>
+                    @post.AuthorName
+                </td>
+                <td>
+                    <a asp-action="Detail" asp-route-id="@post.Id"><i class="fas fa-calendar-week"></i>Detail</a>
+                </td>
+            </tr>
+            }
+
+        }
+        else
+        {
+            <h1 class="text-warning">Không tìm thấy bài viết </h1>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,32 @@
+﻿@model TinTucCTSV.Models.Search.ResultViewModel
+@{
+    ViewData["Title"] = @Model.SearchQuery;
+}
+
+<img src="~/updated/images/new.png" class="container" />
+<h1 class="text-center">Kết quả tìm kiếm @Model.SearchQuery</h1>
+<form asp-area="Student" asp-controller="Search" asp-action="Results" method="post">
+    <input value="ViewBag["Search"]" type="text" placeholder="Tìm kiếm"/>
+    <button><i class="fa fa-search"></i></button>
+</form>
+
+@if (Model.Posts.Any())
+{
+
+    @foreach (var post in Model.Posts)
+    {
+        <ul>
+            <li>
+                <a asp-controller="Post" asp-action="Index" asp-route-id="@post.Id">@post.Title</a>
+                <time>@post.Created</time>
+            </li>
+        </ul>
+    }
+
+}
+else
+{
+    <h1>Không tìm thấy kết quả @Model.SearchQuery</h1>
+}
+
+

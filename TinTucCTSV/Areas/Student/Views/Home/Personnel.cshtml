@@ -1,0 +1,7 @@
+@model IEnumerable<TinTucCTSV.Models.Home.PersonnelViewModel>
+
+@foreach (var personnel in Model)
+{
+    @personnel.Name
+    @personnel.Regency
+}

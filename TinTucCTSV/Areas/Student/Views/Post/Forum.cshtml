@@ -1,0 +1,7 @@
+@model TinTucCTSV.Models.Post.PostIndexModel
+
+<a asp-area="Student" asp-controller="Post" asp-action="Create">Create Post</a>
+@foreach (var post in Model.ListPosts)
+{
+    <h1>@post.Title</h1>
+}

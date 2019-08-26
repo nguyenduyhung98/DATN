@@ -1,0 +1,22 @@
+@model TinTucCTSV.Models.Regency.RegencyUpdateModel
+@{
+    ViewData["Title"] = @Model.Name;
+}
+<h1>Chỉnh sửa chức vụ</h1>
+        <br/>
+<div>
+    <div>
+        <form asp-action="UpdateRegency">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="Id" type="hidden"/>
+            <div class="form-group">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" value="@Model.Name" class="form-control"/>
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="from-group">
+                <input type="submit" value="Save" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>

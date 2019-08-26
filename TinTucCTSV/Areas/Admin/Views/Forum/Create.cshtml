@@ -1,0 +1,28 @@
+﻿@model TinTucCTSV.Models.Forum.ForumNewModel
+
+    <div>
+        <form asp-action="Create" enctype="multipart/form-data">
+        <h1>Tạo chủ đề mới</h1>
+        <br/>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" id="exampleForm2" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" id="exampleForm" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageForum" class="control-label"></label>
+                <div class="custom-file">
+                    <input asp-for="ImageForum" type="file" name="model.ImageForum" class="custom-file-input" id="img-check">
+                    <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+                    <span class="text-danger">@TempData["Message"]</span>
+                </div>
+            </div>
+            <input type="submit" value="Create" class="btn btn-success" id="btn-check" />
+        </form>
+    </div>

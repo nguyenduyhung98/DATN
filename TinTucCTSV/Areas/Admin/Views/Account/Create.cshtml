@@ -1,0 +1,50 @@
+﻿@using TinTucCTSV.Data.Enums
+@model TinTucCTSV.Models.Account.NewAccountModel
+
+@{
+    ViewData["Title"] = "Tạo người dùng mới";
+}
+
+    <form asp-controller="Account" asp-action="Create">
+        <h1>Tạo người dùng mới</h1>
+        <br/>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="UserName"></label>
+            <input asp-for="UserName" class="form-control" />
+            <span asp-validation-for="UserName"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName"></span>
+        </div>
+         <div class="form-group">
+                <label asp-for="Gender"></label>
+                <input asp-for="Gender" />
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+        <div class="form-group">
+            <label asp-for="RegencyId"></label>
+            <select class="form-control" asp-for="RegencyId" asp-items="@(new SelectList(ViewBag.Regencies,"Id","Name"))">
+                <option Value="">--Not selected--</option>
+            </select>
+            <span asp-validation-for="RegencyId"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Password"></label>
+            <input asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ConfirmPassword"></label>
+            <input asp-for="ConfirmPassword" class="form-control" />
+            <span asp-validation-for="ConfirmPassword"></span>
+        </div>
+        <input type="submit" value="Tạo" class="btn btn-success" />
+    </form>

@@ -1,0 +1,31 @@
+@model TinTucCTSV.Models.Comment.CommentIndexModel
+
+<table class="table table-bordered table-responsive">
+    <thead>
+        <tr>
+            <th>
+                Content
+            </th>
+            <th>
+                Author
+            </th>
+        </tr>
+    </thead>
+    @foreach (var comment in Model.listComment)
+    {
+        <tr>
+            <td>
+                @comment.ContentCmt
+            </td>
+            <td>
+                @comment.Commented
+            </td>
+            <td>
+                @comment.Posts.Title
+            </td>
+            <td>
+                @comment.Users.FullName
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,241 @@
+﻿a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+header li {
+    border-right: white solid 1px;
+}
+
+@media (min-width: 800px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+/*******Style header*********/
+
+/*******End Header*********/
+/**Start Main**/
+
+.banner-ute {
+    background: url("/updated/images/baner.png");
+}
+
+/**End Main**/
+.dropbtn {
+    background-color: #0751a7;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 450px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+        .dropdown-content a:hover {
+            color: red;
+            font-weight: bold;
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.bg-navbar {
+    background-color: #0751a7;
+}
+
+a:hover {
+    color: darkred;
+}
+
+.myFooter {
+    background-color: #0751a7;
+    padding-top: 20px;
+}
+
+    .myFooter .footer-copyright {
+        background-color: #0751a7;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        text-align: center;
+        border-top: 2px solid #fff;
+    }
+
+    .myFooter .row {
+        margin-bottom: 20px;
+    }
+
+    .myFooter .footer-copyright p {
+        margin: 10px;
+        color: #ccc;
+    }
+
+    .myFooter ul {
+        list-style-type: none;
+        padding-left: 0;
+        line-height: 2;
+    }
+
+    .myFooter h4 {
+        font-size: 15px;
+        color: white;
+        font-weight: bold;
+        margin-top: 20px;
+    }
+
+    .myFooter a {
+        color: #d2d1d1;
+        text-decoration: none;
+    }
+
+        .myFooter a:hover,
+        .myFooter a:focus {
+            text-decoration: none;
+            color: red;
+        }
+
+    .myFooter .btn {
+        color: white;
+        background-color: #d84b6b;
+        border-radius: 20px;
+        border: none;
+        width: 150px;
+        display: block;
+        margin: 0 auto;
+        margin-top: 10px;
+        line-height: 25px;
+    }
+
+@media screen and (max-width: 800px) {
+    .myFooter {
+        text-align: center;
+    }
+}
+
+
+/* CSS used for positioning the footers at the bottom of the page. */
+/* You can remove this. */
+
+html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    height: 100%;
+}
+
+.content {
+    flex: 1 0 auto;
+    -webkit-flex: 1 0 auto;
+    min-height: 200px;
+}
+
+.myFooter {
+    flex: 0 0 auto;
+    -webkit-flex: 0 0 auto;
+}
+
+
+.searchbar {
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 30px;
+    background-color: #a9afbc;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+  .search_input{
+  color: white;
+  border: 0;
+  outline: 0;
+  background: none;
+  width: 0;
+  caret-color:transparent;
+  line-height: 20px;
+  transition: width 0.4s linear;
+  }
+
+  .searchbar:hover > .search_input{
+  padding: 0 10px;
+  width: 200px;
+  caret-color:red;
+  transition: width 0.4s linear;
+  }
+
+  .searchbar:hover > .search_icon{
+  background: white;
+  color: #e74c3c;
+  }
+
+  .search_icon{
+  height: 10px;
+  width: 20px;
+  float: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20%;
+  color:white;
+  }

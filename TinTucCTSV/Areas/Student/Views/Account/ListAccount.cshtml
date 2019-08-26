@@ -1,0 +1,26 @@
+@model TinTucCTSV.Models.Account.AccountIndexModel
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(account => account.Accounts.FirstOrDefault().FullName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(@account =>account.Accounts.FirstOrDefault().Regency)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+           @foreach (var account in Model.Accounts)
+           {
+            <tr>
+                <td>
+                    @account.FullName       
+                </td>
+                <td>
+                    @account.Regency       
+                </td>
+            </tr>
+           }
+        </tbody>
+    </table>

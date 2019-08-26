@@ -1,0 +1,43 @@
+﻿@model TinTucCTSV.Models.Account.ChangeInformation
+
+    <form asp-action="ChangeInformation" enctype="multipart/form-data">
+    <div class="container-fuild">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
+        <a asp-action="ChangePassword" asp-route-id="@Model.Id">ChangePassword</a>
+        <div class="col col-4">
+            <div class="form-group">
+                <div class="custom-file">
+                    <input type="file" name="files" class="custom-file-input" id="img-check">
+                    <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+                    <span>@TempData["Message"]</span>
+                </div>
+            </div>
+        </div>
+        <div class="col col-4">
+             <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" value="@Model.UserName" disabled class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" value="@Model.FirstName" disabled class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col col-4">
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" value="@Model.Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="PhoneNumber" class="control-label"></label>
+                <input asp-for="PhoneNumber" value="@Model.PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </div>
+</form>

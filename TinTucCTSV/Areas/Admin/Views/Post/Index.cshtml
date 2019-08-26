@@ -1,0 +1,44 @@
+﻿@using PagedList.Core.Mvc
+@model TinTucCTSV.Models.Post.PostIndexModel
+@{
+    ViewData["Title"] = "Quản Lý bài viết";
+}
+<partial name="_TaskbarPartial" />
+<table class="table table-bordered table-responsive">
+    <thead>
+        <tr>
+            <th>
+                @Html.ActionLink(Html.DisplayNameFor(post => post.ListPosts.First().Title), "Index", new { sortOrder = ViewData["NameSortParm"] })
+            </th>
+            <th>
+                @Html.ActionLink(Html.DisplayNameFor(post => post.ListPosts.First().Created), "Index", new { sortOrder = ViewData["DateSortParm"] })
+            </th>
+            <th>
+                @Html.DisplayNameFor(post => post.ListPosts.FirstOrDefault().AuthorName)
+            </th>
+            <th>
+                Chức năng
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var post in Model.ListPosts)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Update" asp-route-id="@post.Id">@post.Title</a>
+                </td>
+                <td>
+                    @post.Created
+                </td>
+                <td>
+                    @post.AuthorName
+                </td>
+                <td>
+                    <partial name="_ButtonPartial" model="@post.Id" />
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@*<pager class="pager-container" list="@Model.ListPosts" options="@PagedListRenderOptions.TwitterBootstrapPager" asp-action="Index" asp-controller="Post" />*@

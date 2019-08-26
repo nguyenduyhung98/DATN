@@ -1,0 +1,22 @@
+﻿@model TinTucCTSV.Models.Role.NewRoleModel
+@{
+    ViewData["Title"] = "Tạo quyền";
+}
+<form asp-action="AddRole">
+    <h1>Tạo quyền mới</h1>
+        <br/>
+    <div asp-validation-summary="ModelOnly"></div>
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description"></span>
+    </div>
+    <div class="from-group">
+        <input type="submit" value="Create" class="btn btn-success" />
+    </div>
+</form>

@@ -1,0 +1,33 @@
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.csproj.CoreCompileInputs.cache
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.AssemblyInfoInputs.cache
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.AssemblyInfo.cs
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.deps.json
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.dll
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.pdb
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.dll
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.pdb
+d:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.runtimeconfig.json
+d:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.runtimeconfig.dev.json
+D:\Developer\Projects\TinTucCTSV\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.csprojAssemblyReference.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.deps.json
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.runtimeconfig.json
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.runtimeconfig.dev.json
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.dll
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.pdb
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.csproj.CoreCompileInputs.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.AssemblyInfoInputs.cache
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.AssemblyInfo.cs
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.dll
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.pdb
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.deps.json
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.runtimeconfig.json
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.runtimeconfig.dev.json
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.dll
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\bin\Debug\netcoreapp2.2\TinTucCTSV.Data.pdb
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.csprojAssemblyReference.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.AssemblyInfoInputs.cache
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.AssemblyInfo.cs
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.dll
+C:\Users\Nguyen Duy Hung\Desktop\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.pdb
+D:\Developer\Projects\ForumTinTuc\TinTucCTSV.Data\obj\Debug\netcoreapp2.2\TinTucCTSV.Data.csprojAssemblyReference.cache

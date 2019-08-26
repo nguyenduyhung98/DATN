@@ -1,0 +1,10 @@
+@model TinTucCTSV.Models.Form.FormIndexModel
+
+        @foreach (var form in Model.listForms)
+        {
+            <ul>
+                <li>
+                    <a href="@form.LinkUrl">@form.Title</a>
+                </li>
+            </ul>
+        }

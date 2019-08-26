@@ -1,0 +1,52 @@
+﻿@model TinTucCTSV.Models.Account.AccountIndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+    <partial name="_TaskbarPartial" />
+<div class="table-responsive">
+    <table class="table .table-bordered table-responsive">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(account => account.Accounts.FirstOrDefault().UserName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(account => account.Accounts.FirstOrDefault().Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(account => account.Accounts.FirstOrDefault().FullName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(account => account.Accounts.FirstOrDefault().Position)
+                </th>
+                <th>
+                    Chức năng
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var account in Model.Accounts)
+            {
+                <tr>
+                    <th>
+                        @account.UserName
+                    </th>
+                    <th>
+                        @account.Email
+                    </th>
+                    <th>
+                        @account.FullName
+                    </th>
+                    <td>
+                        @account.Regency
+                    </td>
+                    <td>
+                        <partial name="_ButtonStringPartial" model="@account.Id" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+       
+    </table>
+</div>
+

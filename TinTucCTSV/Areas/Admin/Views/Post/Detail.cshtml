@@ -1,0 +1,46 @@
+﻿@model TinTucCTSV.Models.Post.PostViewModel
+@{
+    ViewData["Title"] = "Chi tiết bài viết";
+}
+<h1>Chi tiết bài viết</h1>
+        <br/>
+<div class="p-5">
+    <h1 class="text-center">@Model.Title</h1>
+    <p class="lead text-center">
+        <i class="far fa-user"></i> @Model.AuthorName (@Model.AuthorRating) -
+        <i class="far fa-eye"></i> @Model.NumberRead -
+        <i class="far fa-clock"></i> @Model.Created -
+        <i class="far fa-comments"></i> @Model.RepliesCount
+    </p>
+    <hr class="my-2">
+    <p>
+        @Html.Raw(Model.Content)
+    </p>
+    <hr class="my-2">
+    <div>
+        @if (Model.FileUrl != "" && Model.FileUrl != null)
+        {
+            <p>Tệp đính kèm: <a href="\updated/files/@Model.FileUrl">@Model.FileUrl</a></p>
+        }
+    </div>
+    <div class="float-right">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=@Model.UrlHttp"
+           onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
+           target="_blank" title="Share on Facebook">
+            <i class="fab fa-facebook-f"></i>
+        </a>
+        <a href="https://twitter.com/share?url=@Model.UrlHttp"
+           onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
+           target="_blank" title="Share on Twitter">
+            <i class="fab fa-twitter"></i>
+        </a>
+        <a href="https://plus.google.com/share?url=@Model.UrlHttp"
+           onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=350,width=480');return false;"
+           target="_blank" title="Share on Google+">
+            <i class="fab fa-google-plus-g"></i>
+        </a>
+    </div>
+    <a asp-controller="Post" asp-action="Update" asp-route-id="@Model.Id" class="btn btn-success">Chỉnh sửa</a>
+    <a asp-controller="Post" asp-action="CheckStatus" asp-route-id="@Model.Id" class="btn btn-success">Duyệt bài</a>
+    <a asp-controller="Post" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-success">Xóa</a>
+</div>
